@@ -1,7 +1,8 @@
 {
-  "name": "exercise-1",
-  "version": "0.1.0",
-  "private": true,
+  "name": "project-name",
+"version": "0.1.0",
+"private": true,
+"homepage": "http://students.washington.edu/jingwnpn/info-343/project-name",
   "devDependencies": {
     "react-scripts": "0.7.0"
   },
